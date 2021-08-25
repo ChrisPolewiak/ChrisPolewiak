@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChrisPolewiak
-- 👀 I’m interested in Azure, Automation, IoT, AI
-- 🌱 I’m currently learning Security on Azure
-- 💞️ I’m looking to collaborate on develop tools for manage Azure
+- 👋 Hi, I'am Chris Polewiak, Cloud Architect working for Sii Polska. previously i worked, among others for Microsoft by helping customers and partners learn about the cloud.
+- 👀 I’m interested in Azure, Automation, IoT, AI solutions for Code, Open Source...
+- 🌱 I’m still learning new Cloud services
+- 💞️ I’m looking to collaborate on share knowledge about Cloud to others
 - 📫 You can reach me by LinkedIn Profile ...
 
 <!---
