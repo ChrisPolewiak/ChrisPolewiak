@@ -6,7 +6,7 @@
 
 Current certification:
 - Microsoft Azure MVP
-  Microsoft Cloud Security MVP
+- Microsoft Cloud Security MVP
 - Microsoft Certified Trainer
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator Associate
